@@ -16,5 +16,6 @@ copyright 2021 Keenthemes. The code is released under the MIT license. There is 
 
 Happy coding with Seven HTML Free!
 
-try to change this source into nextjs tempate
+I just try to change this source into nextjs tempatle
+Check this out
 [github](//https://github.com/ngadimin51/seven-next)
