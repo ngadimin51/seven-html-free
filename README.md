@@ -15,3 +15,6 @@ Check out our market for more free and pro templates and graphics: [Keenthemes M
 copyright 2021 Keenthemes. The code is released under the MIT license. There is only one limitation that you can not use the code as it is, modified or part of other item to re-distribute or resell as stock item. 
 
 Happy coding with Seven HTML Free!
+
+try to change this source into nextjs tempate
+[github](//https://github.com/ngadimin51/seven-next)
