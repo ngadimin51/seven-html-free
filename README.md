@@ -18,4 +18,4 @@ Happy coding with Seven HTML Free!
 
 I just try to change this source into nextjs tempatle
 Check this out
-[github](//https://github.com/ngadimin51/seven-next)
+[github](https://github.com/ngadimin51/seven-next)
